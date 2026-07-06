@@ -1,0 +1,18 @@
+@import url(./fonts.css);
+@import url(./components/header.css);
+@import url(./color.css);
+
+/* обнулення стилів - коли хочемо самостійно налаштовувати параметри */
+ul,ol,h1,h2,p,body{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+body{
+    background-color: aliceblue;
+}
+
