@@ -1,8 +1,6 @@
-/* підключення fonts */
 @font-face {
     font-family: LatoB;
     src: url(../fonts/Lato-Bold.woff) format('woff'),
-    /* альтернативний варіант, якщо не підключиться перший */
     url(../fonts/Lato-Bold.woff2) format('woff2');
 }
 
