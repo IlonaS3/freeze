@@ -2,18 +2,20 @@
 @import url(./components/header.css);
 @import url(./color.css);
 @import url(./components/banerHome.css);
+@import url(./components/footer.css);
+@import url(./components/namePage.css);
 
-ul,ol,h1,h2,p,body{
+ul,ol,h1,h2,h3,h4,h5,h6,p,body{
     margin: 0;
     padding: 0;
 }
 
 ul,ol{
-    list-style: none;
+    list-style-type: none;
 }
 
 body{
-    background-color: aliceblue;
+    background-color: #fff;
 }
 
 .container-flueid{
